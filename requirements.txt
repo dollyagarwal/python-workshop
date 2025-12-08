@@ -1,0 +1,7 @@
+requests
+pandas
+matplotlib
+pydantic
+black
+ruff
+mypy
